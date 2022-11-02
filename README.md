@@ -1,6 +1,6 @@
 # My Notes- A Note Taking App that nerds no unwanted permission. 
 
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHb3h6aA3R_gsu42xdBYCa0uI7kkRLlvHdKPisjUz1lviJjGbW1J3pNJo&s=10"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHb3h6aA3R_gsu42xdBYCa0uI7kkRLlvHdKPisjUz1lviJjGbW1J3pNJo&s=10" width="300px"></a>
+<a href="https://github.com/SnowflAI/MyNotes/releases/download/v0.1.0/My_Files_v0.1.apk"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHb3h6aA3R_gsu42xdBYCa0uI7kkRLlvHdKPisjUz1lviJjGbW1J3pNJo&s=10" width="300px"></a>
 
 
 
