@@ -1,4 +1,4 @@
-package com.jpkhawam.nabu;
+package com.snowflai.Mynotes;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
